@@ -2,7 +2,7 @@
 <pre>
 <?php
 
-print "Hello!!! Welcome to akshya's World!!!\n";
+print "Hello!!! Welcome to Lakshya's World!!!\n";
 
 print `free -m`;
 
